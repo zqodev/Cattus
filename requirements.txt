@@ -1,0 +1,2 @@
+pystyle~=2.9
+PyGithub~=1.59.1
